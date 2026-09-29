@@ -1,8 +1,8 @@
 manifestVersion: 1
 id: sparkles-hello-world
-name: Hello World
-tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+name: Steam
+tagline: Run steam games over the network
+icon: https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg
 category: Development
 version: "1.0.0"
 port: 4000
@@ -12,16 +12,13 @@ description: >-
 
   You can also add newlines!
 
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
-submission: https://github.com/getumbrel/umbrel-hello-world-app
-repo: https://github.com/getumbrel/umbrel-hello-world-app
-support: https://github.com/getumbrel/umbrel-hello-world-app/issues
+developer: Steam-Headless
+website: https://github.com/Steam-Headless
+submitter: agua404
+submission: https://github.com/Steam-Headless/docker-steam-headless
+repo: https://github.com/Steam-Headless/docker-steam-headless
+support: https://github.com/Steam-Headless/docker-steam-headless/issues
 gallery:
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
-  - https://i.imgur.com/yyVG0Jb.jpeg
 releaseNotes: >-
   Add what's new in the latest version of your app here.
 dependencies: []
